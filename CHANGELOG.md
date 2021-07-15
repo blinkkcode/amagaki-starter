@@ -1,5 +1,13 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/blinkk/amagaki-starter/compare/v1.0.0...v1.0.1) (2021-07-15)
+
+
+### Bug Fixes
+
+* ensure documents are localized when used with renderPartial ([947954d](https://www.github.com/blinkk/amagaki-starter/commit/947954d35df374743b7056b94fbba0039b71eb45))
+* use iife format for rollup ([2514af8](https://www.github.com/blinkk/amagaki-starter/commit/2514af8e610fd5d4ebafaf7dd5236394a58bb9c6))
+
 ## 1.0.0 (2021-06-08)
 
 
