@@ -24,6 +24,7 @@ export default [
             }),
             commonjs(),
             production && terser()
-        ]
+        ],
+        sourcemap: true
     },
 ];
